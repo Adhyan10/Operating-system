@@ -44,3 +44,4 @@ A comprehensive, structured study plan to master Operating Systems from fundamen
 
 ---
 *Start with [Module 1: Foundations →](./01-Foundations/README.md)*
+This file is for reading purpose only
